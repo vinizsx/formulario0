@@ -1,0 +1,11 @@
+form - formulario
+label - texto que identifica campo
+input - caixa para escrita
+select - caixa de opçoes
+option - opcoes da lista
+
+(colocar o resto da explicacao do javascipt depois)
+
+Proximo passo: let nome verdadeiro para retorna uma mensagem passando o acesso, 
+if nome verdadeiro, else nome falso nao passa,
+mesma coisa com idade e genero. 
